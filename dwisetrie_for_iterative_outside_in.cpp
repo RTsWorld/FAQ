@@ -6,6 +6,9 @@
 #define D 2 // set the largest domain D among all variables
 
 using namespace std;
+/* Commented by Arti!*/
+//**********************//
+
 
 // A D-Wise trie is a generalization of a bitwise(which contains only 0 and 1) trie to 
 // D values. Please refer to https://en.wikipedia.org/wiki/Trie#Bitwise_tries for a basic
